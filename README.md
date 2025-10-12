@@ -24,4 +24,11 @@ A newcomer to the e-commerce market has hired me to provide a robust analysis of
 ---
 
 Tools & Techniques 🛠️
-| Skill/Tool | Where it's used |
+| Skill / Tool | Where it's used |
+|------------|-----------------|
+|**MySQL** - Importing data, creating a schema and complex querying | LINK TO SQL MODEL |
+|**Excel** - Exporting and transforming data | LINK TO EXCEL MODEL |
+|**Power BI** - DAX measures and star schema with light snowflake elements | LINK TO POWER BI MODEL |
+
+---
+
