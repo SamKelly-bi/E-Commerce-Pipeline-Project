@@ -23,7 +23,7 @@ A newcomer to the e-commerce market has hired me to provide a robust analysis of
 
 ---
 
-Tools & Techniques 🛠️
+## Tools & Techniques 🛠️
 | Skill / Tool | Where it's used |
 |------------|-----------------|
 |**MySQL** - Importing data, creating a schema and complex querying | LINK TO SQL MODEL |
