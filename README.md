@@ -1,6 +1,6 @@
 # E-Commerce Pipeline Project 📈
 
-> A complete, job-ready analytical workflow transforming raw e-commerce data into useful business insights while showcasing a SQL -> Excel -> Power BI pipeline.
+> A complete, job-ready analytical workflow that transforms raw e-commerce data into actionable business insights, showcasing an end-to-end SQL → Excel → Power BI pipeline.
 
 ---
 
