@@ -20,13 +20,19 @@ During my analysis, I transform raw transactional and customer data into actiona
 
 ## Key Findings
 
-- Electronics and apparel accounted for nearly half of all orders.
-- 39% of all orders were either returned or cancelled resulted in profit losses of $3 million.
-- Operating in 10 markets around the world, the companies top market by revenue was France.
-- Platinum tier customers, the top 5% of clients by revenue, accounted for 25% of total revenue for the company.
-- 60% of orders had customers buying at least 3 of the item showing the company was a good option for bulk ordering.
-- Overall revenue peaked in Q3 of 2024 when the company had the most overall orders but the lowest revenue per order.
-- Most products had a rating below 3 which highlights the need for newer and better products to be stocked.
+- **Category Performance:** Electronics and apparel accounted for nearly half of all orders, representing the company’s strongest-performing product segments.
+
+- **Order Completion Issues:** 39% of all orders were either returned or cancelled, resulting in estimated profit losses of $3 million.
+
+- **Geographic Insights:** Operating across 10 global markets, the company’s top market by total revenue was France.
+
+- **Customer Segmentation:** Platinum-tier customers — the top 5% of clients by revenue — contributed 25% of the company’s total revenue, underscoring the importance of high-value customer retention.
+
+- **Bulk Ordering Behavior:** 60% of orders included purchases of at least three units of the same item, indicating that the company is a popular choice for bulk buyers.
+
+- **Revenue Trends:** Overall revenue peaked in Q3 2024, coinciding with the highest order volume but the lowest average revenue per order.
+
+- **Product Reviews:** A majority of products received an average rating below 3, highlighting an urgent need to improve product quality and refresh the inventory.
 
 ---
 
