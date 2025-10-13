@@ -8,10 +8,13 @@ During my analysis, I transform raw transactional and customer data into actiona
 
 ## Business Problem
 
--Stakeholder: Executive Committee of the E-Commerce Company
--Key Question: What trends can be identified in the customer, product, and review data, and how can these insights be leveraged to optimize performance and position the business as a major player in the online retail market?
--Why Now?: After three years of operation, the company’s order volume and total revenue have begun to plateau, signaling a need for strategic intervention.
--Decision Impact: The decisions made at this stage will directly influence the financial stability of all stakeholders — from suppliers and warehouse staff to executives. Without decisive action, the business risks significant financial decline within the next year.
+-**Stakeholder:** Executive Committee of the E-Commerce Company
+
+-**Key Question:** What trends can be identified in the customer, product, and review data, and how can these insights be leveraged to optimize performance and position the business as a major player in the online retail market?
+
+-**Why Now?:** After three years of operation, the company’s order volume and total revenue have begun to plateau, signaling a need for strategic intervention.
+
+-**Decision Impact:** The decisions made at this stage will directly influence the financial stability of all stakeholders — from suppliers and warehouse staff to executives. Without decisive action, the business risks significant financial decline within the next year.
 
 ---
 
