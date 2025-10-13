@@ -47,12 +47,17 @@ During my analysis, I transform raw transactional and customer data into actiona
 
 **Data Processing Steps**
 
-- Located an open source dataset on Kaggle that would suit the project I was looking to do.
-- Loaded the raw CSV files into MySQL workbench and altered the tables to ensure data normalisation.
-- Updated the data types and added primary and foreign keys to create the schema.
-- Exported the updated files into Excel.
-- Imported into Power BI and created datamodel.
-- Created measures such as Net Revenue, Average Revenue per Customer and Incomplete Order Rate.
+- Data Sourcing: Located a suitable open-source e-commerce dataset on Kaggle to support the projects objective.
+
+- Data Loading: Imported the raw CSV files into MySQL Workbench for data preparation and transformation.
+
+- Data Cleaning & Normalization: Adjusted table structures to ensure proper normalization, updated data types, and added primary and foreign keys to establish relational integrity.
+
+- Data Export: Exported the cleaned and structured tables into Excel for additional inspection and calculation validation.
+
+- Data Modeling: Imported the processed data into Power BI and built a relational data model connecting all key entities.
+
+- Measure Creation: Developed key performance measures including Net Revenue, Average Revenue per Customer, and Incomplete Order Rate to support insight generation and reporting.
 
 ---
 
