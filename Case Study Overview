@@ -65,8 +65,23 @@ During my analysis, I transform raw transactional and customer data into actiona
 
 **SQL**
 
-- Creating a strong schema with primary and foreign keys.
-- CRUD skills
-- Window
+- Database creation and schema design
+- Data normalisation awareness
+- Primary and foreign keys
+- Relational modelling and joins
+- Analytical and reporting queries
+- Window functions
+- Aggregate functions
+- Triggers
 
+**Excel & Power BI**
+
+- Formatted and validated data for export to Power BI
+- Created star schema and established relationships
+- Building calendar and lookup tables
+- Adding custom calculated columns
+- Advanced DAX functions applying CALCULATE, FILTER and IF logic
+- Time intelligance functions
+- Visualisation and storytelling through interactive visuals
+- Highlighting key KPI's and business insights
 
