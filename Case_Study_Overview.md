@@ -65,23 +65,17 @@ During my analysis, I transform raw transactional and customer data into actiona
 
 **SQL**
 
-- Database creation and schema design
-- Data normalisation awareness
-- Primary and foreign keys
+- Database design and normalisation
+- Defining primary and foreign keys
 - Relational modelling and joins
-- Analytical and reporting queries
-- Window functions
-- Aggregate functions
-- Triggers
+- Analytical and reporting queries using window and aggregate functions
+- Implementing triggers for data integrity
 
 **Excel & Power BI**
 
-- Formatted and validated data for export to Power BI
-- Created star schema and established relationships
-- Building calendar and lookup tables
-- Adding custom calculated columns
-- Advanced DAX functions applying CALCULATE, FILTER and IF logic
-- Time intelligance functions
-- Visualisation and storytelling through interactive visuals
-- Highlighting key KPI's and business insights
-
+- Data cleaning, validation, and preparation for Power BI
+- Star schema modelling and relationship management
+- Creating calendar and lookup tables
+- Developing calculated columns and advanced DAX measures (CALCULATE, FILTER, IF)
+- Applying time intelligence functions for trend analysis
+- Designing interactive dashboards to highlight KPIs and business insights
