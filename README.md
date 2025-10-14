@@ -7,8 +7,8 @@
 ## Quick Links
 
 - ![Case Study Report](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/blob/main/Case_Study_Overview.md)
--
--
+- ![SQL](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/SQL)
+- 
 
 ---
 
