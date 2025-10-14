@@ -31,7 +31,7 @@ The result is a streamlined analytical workflow capable of supporting data-drive
 ## Tools & Techniques 🛠️
 | Skill / Tool | Where it's used |
 |------------|-----------------|
-|**MySQL** - Importing data, creating a schema and complex querying | ![SQL Code](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/SQL) |
+|**MySQL** - Importing data, creating a schema and complex querying | ![SQL](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/SQL) |
 |**Excel** - Exporting and transforming data | LINK TO EXCEL MODEL |
 |**Power BI** - DAX measures and star schema with light snowflake elements | LINK TO POWER BI MODEL |
 
