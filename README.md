@@ -9,7 +9,7 @@
 - ![Case Study Report](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/blob/main/Case_Study_Overview.md)
 - ![SQL](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/SQL)
 - ![Excel](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Excel)
-- ![Power BI](
+- ![Power BI](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Power%20BI)
 
 ---
 
@@ -33,8 +33,8 @@ The result is a streamlined analytical workflow capable of supporting data-drive
 | Skill / Tool | Where it's used |
 |------------|-----------------|
 |**MySQL** - Importing data, creating a schema and complex querying | ![SQL](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/SQL) |
-|**Excel** - Exporting and transforming data | LINK TO EXCEL MODEL |
-|**Power BI** - DAX measures and star schema with light snowflake elements | LINK TO POWER BI MODEL |
+|**Excel** - Exporting and transforming data | ![Excel](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Excel) |
+|**Power BI** - DAX measures and star schema with light snowflake elements | ![Power BI](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Power%20BI) |
 
 ---
 
