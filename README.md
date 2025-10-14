@@ -22,7 +22,7 @@ This project demonstrates a complete SQL → Excel → Power BI analytical pipel
 
 - Data transformation and validation in Excel to prepare for analysis.
 
-- Development of interactive Power BI dashboards to visualize trends, performance metrics, and actionable insights.
+- Development of interactive Power BI dashboards to visualise trends, performance metrics, and actionable insights.
 
 The result is a streamlined analytical workflow capable of supporting data-driven decision-making and strategic business improvements.
 
