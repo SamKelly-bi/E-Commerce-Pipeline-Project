@@ -1,0 +1,16 @@
+id,product_name,category
+PROD100,"iPhone 14",Electronics
+PROD101,"Samsung Galaxy S23",Electronics
+PROD102,"Sony Headphones",Electronics
+PROD103,"Levi's Jeans",Apparel
+PROD104,"Nike Air Max",Apparel
+PROD105,"Adidas Running Shoes",Apparel
+PROD106,"Instant Pot","Home & Kitchen"
+PROD107,"Dyson Vacuum","Home & Kitchen"
+PROD108,"Fitbit Versa 3",Electronics
+PROD109,"Kindle Paperwhite",Books
+PROD110,"Harry Potter Box Set",Books
+PROD111,"Lego Star Wars Set",Toys
+PROD112,"Barbie Dreamhouse",Toys
+PROD113,"Wilson Tennis Racket",Sports
+PROD114,"Yoga Mat",Sports
