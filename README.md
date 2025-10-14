@@ -14,12 +14,17 @@
 
 ## Project Overview 🔍
 
-A newcomer to the e-commerce market has hired me to provide a robust analysis of its customers, orders and reviews in an attempt to better understand some of the issues facing the business as it attempts to become a big player in the competitive online marketplace. This analysis sought to show:
+A new e-commerce startup engaged me to perform an in-depth analysis of its customers, orders, and reviews to uncover key challenges and opportunities for growth in a competitive online marketplace.
 
-- A complete SQL -> Excel -> Power BI pipeline that showcases my ability to complete a job-ready analysis using realistic data.
-- Complex SQL database creation, cleaning and querying.
-- Exporting and transforming the data in Excel.
-- Creating interactive dashboards and visualisations to neatly show my findings in Power BI.
+This project demonstrates a complete SQL → Excel → Power BI analytical pipeline, showcasing my ability to deliver end-to-end, job-ready data analysis using realistic business data. The process included:
+
+- Database creation, cleaning, and complex querying in SQL to ensure data accuracy and relational integrity.
+
+- Data transformation and validation in Excel to prepare for analysis.
+
+- Development of interactive Power BI dashboards to visualize trends, performance metrics, and actionable insights.
+
+The result is a streamlined analytical workflow capable of supporting data-driven decision-making and strategic business improvements.
 
 ---
 
