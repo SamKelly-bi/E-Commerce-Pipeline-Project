@@ -1,8 +1,8 @@
 # E-Commerce Pipeline Project
 
-A fictional e-commerce company, currently struggling with a high rate of incomplete orders, has approached me to conduct a comprehensive analysis of its customers, orders, and product reviews. The objective of this analysis is to identify key insights that can help the company strengthen its position and move toward becoming a major global player in the highly competitive online retail industry.
+A fictional e-commerce company, currently struggling with a high rate of incomplete orders, has approached me to conduct a comprehensive analysis of its customers, orders, and product reviews. The objective of this analysis is to identify key insights that can help the company strengthen its position and move towards becoming a major global player in the highly competitive online retail industry.
 
-During my analysis, I transform raw transactional and customer data into actionable insights that drive data-informed decision-making across customer engagement, sales performance, and product strategy. Simulating an SQL → Excel → Power BI workflow, this project showcases a complete end-to-end analytics pipeline, demonstrating proficiency in essential business intelligence tools used to uncover everyday business insights.
+During my analysis, I transformed raw transactional and customer data into actionable insights that drive data-informed decision-making across customer engagement, sales performance, and product strategy. Simulating an SQL → Excel → Power BI workflow, this project showcases a complete end-to-end analytics pipeline, demonstrating proficiency in essential business intelligence tools used to uncover everyday business insights.
 
 ---
 
@@ -10,9 +10,9 @@ During my analysis, I transform raw transactional and customer data into actiona
 
 - **Stakeholder:** Executive Committee of the E-Commerce Company
 
-- **Key Question:** What trends can be identified in the customer, product, and review data, and how can these insights be leveraged to optimize performance and position the business as a major player in the online retail market?
+- **Key Question:** What trends can be identified in the customer, product, and review data, and how can these insights be leveraged to optimise performance and position the business as a major player in the online retail market?
 
-- **Why Now?:** After three years of operation, the company’s order volume and total revenue have begun to plateau, signaling a need for strategic intervention.
+- **Why Now?:** After three years of operation, the company’s order volume and total revenue have begun to plateau, signalling a need for strategic intervention.
 
 - **Decision Impact:** The decisions made at this stage will directly influence the financial stability of all stakeholders — from suppliers and warehouse staff to executives. Without decisive action, the business risks significant financial decline within the next year.
 
@@ -28,7 +28,7 @@ During my analysis, I transform raw transactional and customer data into actiona
 
 - **Customer Segmentation:** Platinum-tier customers — the top 5% of clients by revenue — contributed 25% of the company’s total revenue, underscoring the importance of high-value customer retention.
 
-- **Bulk Ordering Behavior:** 60% of orders included purchases of at least three units of the same item, indicating that the company is a popular choice for bulk buyers.
+- **Bulk Ordering Behaviour:** 60% of orders included purchases of at least three units of the same item, indicating that the company is a popular choice for bulk buyers.
 
 - **Revenue Trends:** Overall revenue peaked in Q3 2024, coinciding with the highest order volume but the lowest average revenue per order.
 
@@ -38,26 +38,21 @@ During my analysis, I transform raw transactional and customer data into actiona
 
 ## Data Sources
 
-|Table|Notes|
+| Table | Notes |
 |-------|-------|
-|**Customer Table**|Customer ID, name, gender, age group, signup date and country|
-|**Orders Table**|Order ID, quantity, unit price, order date, order status, payment method|
-|**Products Table**|Product ID, product name, category|
-|**Reviews Table**|Review ID, rating, review text|
+| **Customer Table** | Customer ID, name, gender, age group, signup date, and country |
+| **Orders Table** | Order ID, quantity, unit price, order date, order status, and payment method |
+| **Products Table** | Product ID, product name, and category |
+| **Reviews Table** | Review ID, rating, and review text |
 
 **Data Processing Steps**
 
-- Data Sourcing: Located a suitable open-source e-commerce dataset on Kaggle to support the projects objective.
-
-- Data Loading: Imported the raw CSV files into MySQL Workbench for data preparation and transformation.
-
-- Data Cleaning & Normalization: Adjusted table structures to ensure proper normalization, updated data types, and added primary and foreign keys to establish relational integrity.
-
-- Data Export: Exported the cleaned and structured tables into Excel for additional inspection and calculation validation.
-
-- Data Modeling: Imported the processed data into Power BI and built a relational data model connecting all key entities.
-
-- Measure Creation: Developed key performance measures including Net Revenue, Average Revenue per Customer, and Incomplete Order Rate to support insight generation and reporting.
+- Data sourcing: Located a suitable open-source e-commerce dataset on Kaggle to support the project’s objective.
+- Data loading: Imported the raw CSV files into MySQL Workbench for data preparation and transformation.
+- Data cleaning and normalisation: Adjusted table structures to ensure proper normalisation, updated data types, and added primary and foreign keys to establish relational integrity.
+- Data export: Exported the cleaned and structured tables into Excel for additional inspection and calculation validation.
+- Data modelling: Imported the processed data into Power BI and built a relational data model connecting all key entities.
+- Measure creation: Developed key performance measures, including Net Revenue, Average Revenue per Customer, and Incomplete Order Rate, to support insight generation and reporting.
 
 ---
 
