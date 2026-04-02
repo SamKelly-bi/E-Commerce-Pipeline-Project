@@ -35,3 +35,7 @@ The result is a streamlined analytical workflow capable of supporting data-drive
 | **Power BI** — DAX measures and star schema with light snowflake elements | ![Power BI](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Power%20BI) |
 
 ---
+
+## Dashboard Preview 📊
+
+![Executive Dashboard Slide](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/blob/main/Power%20BI/Visuals/Executive%20Dashboard%20Default.png)
