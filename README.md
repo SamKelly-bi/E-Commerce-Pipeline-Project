@@ -15,15 +15,13 @@
 
 ## Project Overview 🔍
 
-A new e-commerce startup engaged me to perform an in-depth analysis of its customers, orders, and reviews to uncover key challenges and opportunities for growth in a competitive online marketplace.
+A new e-commerce start-up engaged me to perform an in-depth analysis of its customers, orders, and reviews to uncover key challenges and opportunities for growth in a competitive online marketplace.
 
 This project demonstrates a complete SQL → Excel → Power BI analytical pipeline, showcasing my ability to deliver end-to-end, job-ready data analysis using realistic business data. The process included:
 
-- Database creation, cleaning, and complex querying in SQL to ensure data accuracy and relational integrity.
-
-- Data transformation and validation in Excel to prepare for analysis.
-
-- Development of interactive Power BI dashboards to visualise trends, performance metrics, and actionable insights.
+- Database creation, cleaning, and complex querying in SQL to ensure data accuracy and relational integrity
+- Data transformation and validation in Excel to prepare for analysis
+- Development of interactive Power BI dashboards to visualise trends, performance metrics, and actionable insights
 
 The result is a streamlined analytical workflow capable of supporting data-driven decision-making and strategic business improvements.
 
@@ -32,9 +30,8 @@ The result is a streamlined analytical workflow capable of supporting data-drive
 ## Tools & Techniques 🛠️
 | Skill / Tool | Where it's used |
 |------------|-----------------|
-|**MySQL** - Importing data, creating a schema and complex querying | ![SQL](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/SQL) |
-|**Excel** - Exporting and transforming data | ![Excel](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Excel) |
-|**Power BI** - DAX measures and star schema with light snowflake elements | ![Power BI](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Power%20BI) |
+| **MySQL** — importing data, creating a schema, and complex querying | ![SQL](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/SQL) |
+| **Excel** — exporting and transforming data | ![Excel](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Excel) |
+| **Power BI** — DAX measures and star schema with light snowflake elements | ![Power BI](https://github.com/SamKelly-bi/E-Commerce-Pipeline-Project/tree/main/Power%20BI) |
 
 ---
-
